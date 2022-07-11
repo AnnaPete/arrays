@@ -7,3 +7,4 @@ partyMember[3] = false;
 //This array will change the last element in partyMember from true to false
 ages.pop();
 //This array will remove the last element in ages
+var sentence = $"Index positions refer to the positions in an array. The first position is always referred to as 0."
